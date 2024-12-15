@@ -4,6 +4,8 @@
 
 If you just want to use the software, please click [here](https://github.com/shulinbao/historical-documents-free-downloader/releases/download/test/downloader.exe) to download the compiled binary file: `downloader.exe`.
 
+如果你只是想使用程序，而不想二次开发，请直接点击链接 下载](https://github.com/shulinbao/historical-documents-free-downloader/releases/download/test/downloader.exe) 并使用即可。
+
 **Please note that the server address should only include the IP and port (e.g., ip:port), not the website URL!**
 
 请注意，服务器地址只能填ip:端口，不能填网址！
