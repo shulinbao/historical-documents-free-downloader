@@ -78,7 +78,7 @@ pip install requests PyPDF2
    - In the main window, you can update the server address by entering the new address and clicking "更新地址" (Update Address).
 
 2. **Search for Documents**:
-   - Select the desired category from the dropdown (e.g., "文书集", "单册文书", or "零散单页").
+   - Select the desired category from the dropdown.
    - Enter a search keyword in the "搜索内容" (Search Content) box.
    - Click the "搜索" (Search) button to retrieve matching records.
 
